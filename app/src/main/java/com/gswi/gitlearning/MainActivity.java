@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
         System.out.println("This is second commit");
 
-        kgh kjlk fourth commit
+        third commit
     }
 }
