@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("This is 4 commit");
 
         System.out.println("Next commit");
+        System.out.println("test commit");
     }
 }
